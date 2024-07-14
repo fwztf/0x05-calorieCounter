@@ -42,22 +42,22 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## Code Explanation
 ### HTML Elements
-- calorieCounter: The main form element for the calorie counter
-- budgetNumberInput: Input for the calorie budget
-- entryDropdown: Dropdown menu to select a meal or exercise category
-- addEntryButton: Button to add new entries
-- clearButton: Button to clear the form
-- output: Element to display the calculation results
+- "calorieCounter": The main form element for the calorie counter
+- "budgetNumberInput": Input for the calorie budget
+- "entryDropdown": Dropdown menu to select a meal or exercise category
+- "addEntryButton": Button to add new entries
+- "clearButton": Button to clear the form
+- "output": Element to display the calculation results
 
 ### JavaScript Functions
-- cleanInputString(str): Removes invalid characters (+, -, and spaces) from a string
-- isInvalidInput(str): Checks if the input string contains invalid scientific notation (e)
-- addEntry(): Adds a new entry input field for the selected category
-- calculateCalories(e): Calculates the total calories consumed, burned, and remaining based on the inputs
-- getCaloriesFromInputs(list): Sums up the calorie values from a list of input elements
-- clearForm(): Clears all input fields and results
+- "cleanInputString(str)": Removes invalid characters (+, -, and spaces) from a string
+- "isInvalidInput(str)": Checks if the input string contains invalid scientific notation (e)
+- "addEntry()": Adds a new entry input field for the selected category
+- "calculateCalories(e)": Calculates the total calories consumed, burned, and remaining based on the inputs
+- "getCaloriesFromInputs(list)": Sums up the calorie values from a list of input elements
+- "clearForm()": Clears all input fields and results
 
 ### Event Listeners
-- addEntryButton.addEventListener("click", addEntry): Adds a new entry when the "Add Entry" button is clicked
-- calorieCounter.addEventListener("submit", calculateCalories): Calculates calories when the form is submitted
-- clearButton.addEventListener("click", clearForm): Clears the form when the "Clear" button is clicked
+- "addEntryButton.addEventListener("click", addEntry)": Adds a new entry when the "Add Entry" button is clicked
+- "calorieCounter.addEventListener("submit", calculateCalories)": Calculates calories when the form is submitted
+- "clearButton.addEventListener("click", clearForm)": Clears the form when the "Clear" button is clicked
