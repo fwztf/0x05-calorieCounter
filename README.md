@@ -1,5 +1,4 @@
 # calorieCounter
-The fifth project under the FCC JS algorithms and data structures curriculum.
 This project is a web application that helps users track their calorie intake across 
 different meals and compare it with their calorie budget. 
 Users can add entries for different meals and exercises, and the app will calculate the remaining calories based on the provided inputs.
