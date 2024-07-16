@@ -1,7 +1,7 @@
 # calorieCounter
 This project is a web application that helps users track their calorie intake across 
 different meals and compare it with their calorie budget. 
-Users can add entries for different meals and exercises, and the app will calculate the remaining calories based on the provided inputs.
+Users can add entries for different meals and exercises, and the app will calculate the remaining calories based on the provided inputs
 
 ## Table of Contents
 - [Overview](#overview)
@@ -12,16 +12,16 @@ Users can add entries for different meals and exercises, and the app will calcul
 
 ## Overview
 The Calorie Counter app allows users to input calorie data for various meals and exercises. 
-It calculates the total calories consumed and burned and compares it against a user-defined calorie budget to determine a calorie surplus or deficit.
+It calculates the total calories consumed and burned and compares it against a user-defined calorie budget to determine a calorie surplus or deficit
 
 ## Features
-- Add entries for breakfast, lunch, dinner, snacks, and exercises.
-- Calculate total calories consumed, burned, and remaining based on a calorie budget.
-- Display results indicating whether there is a calorie surplus or deficit.
-- Clear the form to reset all inputs and results.
+- Add entries for breakfast, lunch, dinner, snacks, and exercises
+- Calculate total calories consumed, burned, and remaining based on a calorie budget
+- Display results indicating whether there is a calorie surplus or deficit
+- Clear the form to reset all inputs and results
 
 ## Getting Started
-Follow these instructions to get a copy of the project up and running on your local machine.
+Follow these instructions to get a copy of the project up and running on your local machine
 
 ### Prerequisites
 - A web browser (e.g., Chrome, Firefox, Edge, etc.)
